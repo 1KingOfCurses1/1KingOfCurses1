@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shan+Truong+%F0%9F%91%8B;Software+Engineering+%40+McMaster+University;Building+Network+Tools+%26+AI+Systems;Active+Hackathon+Participant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shan+Truong+%F0%9F%91%8B;Software+Engineering+%40+McMaster+University;Building+Network+Tools+%26+AI+Systems;Active+Hackathon+Participant" alt="Typing SVG" />
 
 <!-- SOCIAL BADGES -->
 <p>
@@ -44,14 +44,14 @@
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="45" height="45"/>
 
-<br><br>
+<br>
 
 **Tools & Platforms**
 
@@ -62,7 +62,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
 
-<br><br>
+<br>
 
 **AI/ML & Computer Vision**
 
