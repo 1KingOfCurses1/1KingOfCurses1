@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shan+Truong+%F0%9F%91%8B;Backend+Developer+%C2%B7+Systems+Programming+%C2%B7+Machine+Learning;Building+Network+Tools+%26+AI+Systems;Active+Hackathon+Participant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shan+Truong+%F0%9F%91%8B;Backend+Developer;Systems+Programming+%C2%B7+Machine+Learning;Building+Network+Tools+%26+AI+Systems;Active+Hackathon+Participant" alt="Typing SVG" />
 
 <!-- SOCIAL BADGES -->
 <p>
@@ -28,7 +28,8 @@
 
 🎓 **Software Engineering at McMaster University**
 
-📊 **Dean's List Recipient 2024** — 4.0/4.0 GPA (Top 15% of program)
+📊 **4.0/4.0 GPA** — Top 15% of program  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Dean's List Recipient 2024
 
 🔧 I build **systems-level tools** and **AI-powered applications** — from low-level network diagnostics in C to computer vision systems with Python.
 
@@ -44,7 +45,7 @@
 
 **Languages**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
