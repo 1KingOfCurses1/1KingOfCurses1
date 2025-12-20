@@ -86,14 +86,9 @@
 
 ---
 
-<details>
-<summary><strong>🎯 What I'm Looking For</strong></summary>
-
-<br>
+## 🎯 What I'm Looking For
 
 ### Summer 2026 Internships
-
-**Primary Interests:**
 
 🤖 **AI/ML Engineering** — Building intelligent systems and working with neural networks
 
@@ -103,11 +98,17 @@
 
 💻 **Big Tech & Fintech** — FAANG, AMD, NVIDIA, and related companies
 
-<br>
+---
 
-**What I bring:** Systems programming experience, full-stack capabilities, strong fundamentals in discrete math and digital logic, and a track record of building functional projects from scratch.
+## 📖 Currently Learning
 
-</details>
+🔐 **Cybersecurity** — Google Cybersecurity Certificate
+
+🤖 **Machine Learning** — Building foundational ML knowledge
+
+📚 **Data Structures & Algorithms** — Core CS fundamentals
+
+💻 **Operating Systems** — Threads, processes, concurrency, memory management
 
 ---
 
@@ -125,11 +126,3 @@
 💪 Into **strength training** and fitness
 
 </details>
-
----
-
-<div align="center">
-
-*Throughout heaven and earth, I alone am the honoured one.* 🔵🫸🏻🫷🏻🔴🫴🏻🟣
-
-</div>
