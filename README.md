@@ -126,3 +126,11 @@
 💪 Into **strength training** and fitness
 
 </details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+
+</div>
