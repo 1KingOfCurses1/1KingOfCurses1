@@ -24,6 +24,9 @@ jobs:
       # 2) Recolor the SVGs (THIS is where the sed goes)
       - name: Recolor to icy blues
         run: |
+          # Make sure files are writable for sed -i
+          chmod -R u+rwX,go+rX dist || true
+
           # light
           sed -i 's/#c6e48b/#E6F6FF/g' dist/github-contribution-grid-snake.svg
           sed -i 's/#7bc96f/#CDEEFF/g' dist/github-contribution-grid-snake.svg
