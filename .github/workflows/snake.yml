@@ -2,46 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1) Generate the snake svgs into dist/
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: 1KingOfCurses1
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 2) Recolor the SVGs (THIS is where the sed goes)
-      - name: Recolor to icy blues
-        run: |
-          # Make sure files are writable for sed -i
-          chmod -R u+rwX,go+rX dist || true
-
-          # light
-          sed -i 's/#c6e48b/#E6F6FF/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/#7bc96f/#CDEEFF/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/#239a3b/#9ADCFB/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/#196127/#6ECFF6/g' dist/github-contribution-grid-snake.svg
-
-          # dark
-          sed -i 's/#c6e48b/#E6F6FF/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#7bc96f/#CDEEFF/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#239a3b/#9ADCFB/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#196127/#6ECFF6/g' dist/github-contribution-grid-snake-dark.svg
-
-      # 3) Publish dist/ to the output branch (THIS is what updates your README URL)
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
