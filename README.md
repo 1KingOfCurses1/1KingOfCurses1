@@ -34,12 +34,12 @@
 
 🎓 **Software Engineering at McMaster University**
 
-📊 **4.0/4.0 GPA** — Top 15% of program  
+📊 **4.0/4.0 GPA** - Top 15% of program  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Dean's List Recipient 2024
 
 🔧 I build **systems-level tools** and **AI-powered applications** — from low-level network diagnostics in C to computer vision systems with Python.
 
-🏆 **Active hackathon participant** — HackCanada, SpurHacks, MEC
+🏆 **Active hackathon participant** - HackCanada, SpurHacks, MEC, CXC
 
 🤝 **Member of IBM Club** at McMaster University
 
@@ -96,19 +96,19 @@
 
 ### Summer 2026 Internships
 
-🤖 **AI/ML Engineering** — Building intelligent systems and neural networks  
-📈 **Quantitative Development** — Citadel, Two Sigma, Jane Street  
-🔐 **Cybersecurity in Fintech** — CIBC, TD, RBC, Chase, AmEx  
-💻 **Big Tech & Fintech** — FAANG, AMD, NVIDIA
+🤖 **AI/ML Engineering** - Building intelligent systems and neural networks  
+📈 **Quantitative Development** - Citadel, Two Sigma, Jane Street  
+🔐 **Cybersecurity in Fintech** - CIBC, TD, RBC, Chase, AmEx  
+💻 **Big Tech & Fintech** - FAANG, AMD, NVIDIA
 
 ---
 
 ## 📖 Currently Learning
 
-🔐 **Cybersecurity** — Google Cybersecurity Certificate  
-🤖 **Machine Learning** — Foundational ML knowledge  
-📚 **Data Structures & Algorithms** — Core CS fundamentals  
-💻 **Operating Systems** — Threads, processes, concurrency, memory management
+🔐 **Cybersecurity** - Google Cybersecurity Certificate  
+🤖 **Machine Learning** - Foundational ML knowledge  
+📚 **Data Structures & Algorithms** - Core CS fundamentals  
+💻 **Operating Systems** - Threads, processes, concurrency, memory management
 
 ---
 
@@ -118,7 +118,7 @@
 <br>
 
 🥋 Brown belt in martial arts  
-🏐 Varsity volleyball — 2 championships  
+🏐 Varsity volleyball - 2 championships  
 🍳 Passionate about cooking  
 💪 Strength training & fitness
 
