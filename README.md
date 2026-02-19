@@ -37,7 +37,7 @@
 📊 **4.0/4.0 GPA** - Top 15% of program  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Dean's List Recipient 2024
 
-🔧 I build **systems-level tools** and **AI-powered applications** — from low-level network diagnostics in C to computer vision systems with Python.
+🔧 I build **systems-level tools** and **AI-powered applications** - from low-level network diagnostics in C to computer vision systems with Python.
 
 🏆 **Active hackathon participant** - HackCanada, SpurHacks, MEC, CXC
 
