@@ -99,6 +99,7 @@
 ⚙️ **Backend & Infrastructure** - APIs, pipelines, and systems that hold up under load  
 🤖 **AI Systems** - agent architectures with real verification, not just prompting  
 🛠️ **Developer Tooling** - compilers, static analysis, and code transformation
+
 ---
 
 ## 📖 Currently Learning
