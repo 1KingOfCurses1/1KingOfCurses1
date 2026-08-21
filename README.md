@@ -94,8 +94,6 @@
 
 ## 🎯 What I'm Looking For
 
-## 🎯 What I'm Looking For
-
 **2027 Internships** — backend and infrastructure, AI systems, and developer tooling.
 Currently building an AI migration platform that translates legacy C/C++ into memory-safe Rust.
 
