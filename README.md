@@ -94,12 +94,10 @@
 
 ## 🎯 What I'm Looking For
 
-### Summer 2026 Internships
+## 🎯 What I'm Looking For
 
-🤖 **AI/ML Engineering** - Building intelligent systems and neural networks  
-📈 **Quantitative Development** - Citadel, Two Sigma, Jane Street  
-🔐 **Cybersecurity in Fintech** - CIBC, TD, RBC, Chase, AmEx  
-💻 **Big Tech & Fintech** - FAANG, AMD, NVIDIA
+**2027 Internships** — backend and infrastructure, AI systems, and developer tooling.
+Currently building an AI migration platform that translates legacy C/C++ into memory-safe Rust.
 
 ---
 
