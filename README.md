@@ -94,9 +94,11 @@
 
 ## 🎯 What I'm Looking For
 
-**2027 Internships** — backend and infrastructure, AI systems, and developer tooling.
-Currently building an AI migration platform that translates legacy C/C++ into memory-safe Rust.
+### 2027 Internships
 
+⚙️ **Backend & Infrastructure** - APIs, pipelines, and systems that hold up under load  
+🤖 **AI Systems** - agent architectures with real verification, not just prompting  
+🛠️ **Developer Tooling** - compilers, static analysis, and code transformation
 ---
 
 ## 📖 Currently Learning
